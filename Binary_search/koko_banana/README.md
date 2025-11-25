@@ -1,6 +1,3 @@
-Okay, here is your content presented as a README file, with no additions, subtractions, or changes to the provided text.
-
----
 
 # Koko Eating Bananas: Minimum Speed Calculation
 
