@@ -92,4 +92,4 @@ Step 1: First guess - speed = 6
 We pick the middle speed: (1 + 11) / 2 = 6. Let's see how long it takes Koko to eat all bananas at a speed of 6 bananas/hour. Pile 3: ceil(3/6) = 1 hour Pile 6: ceil(6/6) = 1 hour Pile 7: ceil(7/6) = 2 hours Pile 11: ceil(11/6) = 2 hours
 
 Total hours: 1 + 1 + 2 + 2 = 6 hours. Since 6 <= 8, this speed works! We can potentially do better (slower), so we update our max_speed to 6 - 1 = 5. Current ans = 6. New search range: [1, 5].
-![upload]("Gemini_Generated_Image_9pttsx9pttsx9ptt.png")
+![upload](Gemini_Generated_Image_9pttsx9pttsx9ptt.png)
