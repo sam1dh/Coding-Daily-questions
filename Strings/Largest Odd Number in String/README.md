@@ -75,6 +75,10 @@ int main() {
 | `num.substr(0, i+1)`          | One-liner to get prefix from index 0 to i (inclusive)                      |
 | Greedy from right             | To get **largest** number → check from rightmost digit first                |
 
+**substr(pos,len)**: 
+1) pos: Index of the first character to be copied.
+2) len: Length of the sub-string.
+**Article**:[Substring_in_CPP](https://www.geeksforgeeks.org/cpp/substring-in-cpp/)
 **Pro Tip**: Always prefer `num.substr(0, len)` over `num.substr(0, i+1)` with manual calculation — it's clean and readable!
 
 ---
